@@ -1,0 +1,1 @@
+The algorithm is "Laser Line Detection with Sub-Pixel Accuracy" based on vivado HLS
